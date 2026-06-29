@@ -1,13 +1,15 @@
-# Missão 🟡 Rascunho — a validar
+# Missão
 
-> Proposta inicial. Peça ao Matheus para confirmar ou reescrever em suas próprias palavras.
+## Frase oficial (extraída da Apresentação Comercial BIONEX 2026)
 
-**Proposta:**
+> "Transformamos desafios ambientais em Soluções Sustentáveis."
 
-> Proteger a saúde de pessoas, empresas e do meio ambiente na Amazônia através de soluções ambientais sérias, regulamentadas e tecnicamente corretas — do controle de pragas ao gerenciamento de resíduos.
+Essa frase aparece como declaração isolada de slide cheio na apresentação oficial (não é texto de apoio) — funciona como a missão de facto da marca hoje.
 
-**Perguntas para validar com o Matheus:**
+## Complemento (linha de abertura, mesma apresentação)
 
-1. Essa frase reflete por que a Bionex existe, na visão de quem fundou/dirige a empresa?
-2. Há algum compromisso específico (ex.: com a região amazônica, com pequenos negócios, com saúde pública) que deveria estar explícito aqui?
-3. Prefere uma missão mais curta (1 frase) ou mais descritiva (1 parágrafo)?
+> "Cada operação é guiada pelo compromisso com inovação, eficiência, e um futuro mais sustentável para todos."
+
+## Pergunta aberta para o Matheus
+
+Essas duas frases já funcionam como missão oficial, ou ele prefere uma versão mais específica/própria? Se sim, qual

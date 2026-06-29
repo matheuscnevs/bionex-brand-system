@@ -1,9 +1,11 @@
-# Propósito 🟡 Rascunho — a validar
+# Propósito
 
-> Proposta inicial. "Propósito" aqui significa o impacto que a empresa busca gerar além do serviço em si.
+## Citacão oficial (Apresentação Comercial 2026)
 
-**Proposta:**
+> "Transformamos desafios ambientais em Soluções Sustentáveis."
 
-> Tornar o controle de pragas e o gerenciamento ambiental acessíveis e tecnicamente corretos para empresas e residências do Amazonas — reduzindo riscos de saúde pública e impacto ambiental que, sem regulamentação seguida à risca, afetariam a região.
+> "Cada operação é guiada pelo compromisso com inovação, eficiência, e um futuro mais sustentável para todos."
 
-**Pergunta para validar com o Matheus:** Há uma razão pessoal/histórica para a empresa existir (ex.: experiência anterior, lacuna percebida no mercado local) que deveria estar refletida aqui?
+Essas duas frases, já em uso real com clientes, definem o propósito declarado da marca: resolver problemas ambientais reais (pragas, resíduos, sanitização) de forma que beneficie tanto o cliente quanto o meio ambiente da região.
+
+**Pergunta para o Matheus**: há uma razão pessoal/histórica para a empresa existir (ver `brand-story.md`) que deveria complementar esse propósito declarado?

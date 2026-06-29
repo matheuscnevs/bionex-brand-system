@@ -1,12 +1,14 @@
-# Personalidade de Marca 🟡 Rascunho — a validar
+# Personalidade de Marca
 
-> Proposta inicial baseada no tom já observado na identidade visual e nas regras de copy existentes na skill (ex.: evitar apelo de urgência genérico, validar fatos antes de afirmar).
+## Evidência real (tom observado nos materiais oficiais)
 
-| Traço proposto | O que significa na prática |
+O texto real usado na apresentação comercial e no manual de identidade é institucional, direto e sem floreio — frases curtas, foco em o que o serviço faz e em conformidade regulatória, sem apelo emocional ou urgência artificial. Isso confirma a direção já documentada na skill de design.
+
+| Traço | Evidência |
 |---|---|
-| **Técnica, não alarmista** | Comunica risco real sem apelar para medo genérico ("praga invade sua casa AGORA"). |
-| **Direta** | Frases curtas, sem floreio — conforme a própria regra tipográfica de hero words curtas. |
-| **Confiável/regulada** | Reforça licenças e conformidade como argumento, não só preço. |
-| **Próxima da região** | Fala como uma empresa amazônica, não como uma franquia genérica nacional. |
+| **Técnica, não alarmista** | Copy real fala em "controle", "gerenciamento", "consultoria" — nunca em termos de medo/urgência |
+| **Direta** | Frases curtas no padrão "[Serviço]: [o que fazemos] + [benefício]", sem rodeio |
+| **Confiável/regulada** | Licenças aparecem em destaque visual próprio (selos), não como rodapé discreto — é argumento de peso |
+| **Regional/amazônica** | "Nascida no coração da Amazônia" — a identidade regional é usada como abertura institucional, não como detalhe secundário |
 
-**Pergunta para validar com o Matheus:** Esses 4 traços parecem certos? Falta humor, informalidade, ou algo do tipo que o Matheus usa pessoalmente ao falar com clientes?
+**Pergunta para o Matheus**: esses 4 traços parecem certos? Falta humor, informalidade, ou algo do tipo que ele usa pessoalmente ao falar com clientes (já que o material escrito tende a ser mais formal que a conversa real)?

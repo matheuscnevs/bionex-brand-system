@@ -1,12 +1,17 @@
-# Valores 🟡 Rascunho — a validar
+# Valores
 
-> Proposta inicial baseada nos fatos operacionais conhecidos. Confirmar com o Matheus quais realmente guiam decisões do dia a dia.
+## Pilares oficiais explícitos (Apresentação Comercial 2026, linha de abertura)
+
+| Valor | Fonte |
+|---|---|
+| **Inovação** | Citado literalmente: "compromisso com inovação, eficiência, e um futuro mais sustentável" |
+| **Eficiência** | Idem |
+| **Sustentabilidade** | Idem — também reforçado pela missão ("Soluções Sustentáveis") e pela destinação final por incineração descrita como "segura e sustentável" |
+
+## Valor inferido (não citado literalmente, mas evidenciado por operação real)
 
 | Valor proposto | Por que foi sugerido |
 |---|---|
-| **Conformidade regulatória** | A empresa opera com 4 licenças ativas (DEVISA, FVS, IPAAM, IBAMA) — indica que seguir a regulamentação é central, não opcional. |
-| **Responsabilidade ambiental** | Core business é saúde ambiental (resíduos, pragas, sanitização), em região amazônica. |
-| **Precisão técnica acima de urgência artificial** | A skill de marca já registra como regra explícita: nunca prometer "24h" se não for real — isso sugere que honestidade operacional é valorizada mais que apelo comercial fácil. |
-| **Confiabilidade** | Serviços agendados (não emergenciais) dependem de a empresa cumprir o calendário combinado. |
+| **Conformidade regulatória** | A empresa opera com 4 licenças ativas (DEVISA, FVS, IPAAM, IBAMA) e destaca isso de forma proeminente na apresentação comercial — indica que é argumento central, não coadjuvante. |
 
-**Pergunta para validar com o Matheus:** Esses 4 valores realmente correspondem ao que guia as decisões da empresa? Falta algum valor importante (ex.: relação com clientes, preço justo, formação da equipe)?
+**Pergunta para o Matheus**: esses 4 valores cobrem o que realmente guia as decisões da empresa? Falta algum (ex.: relação com clientes, formação da equipe, preço justo)?
