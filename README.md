@@ -1,29 +1,31 @@
-# bionex-brand-system
-Official Brand System of Bionex
-bionex-brand-system/
+# 🌿 BIONEX Brand System
 
-README.md
+Este repositório contém toda a identidade visual, padrões de design, documentação comercial e diretrizes da marca Bionex.
 
-01-Brand/
+## Estrutura
 
-02-Colors/
+- 📁 01-Brand
+- 📁 02-Colors
+- 📁 03-Typography
+- 📁 04-Components
+- 📁 05-Templates
+- 📁 06-Images
+- 📁 07-Icons
+- 📁 08-Prompts
+- 📁 09-Marketing
+- 📁 10-Commercial
+- 📁 11-Presentations
+- 📁 12-Website
 
-03-Typography/
+## Objetivo
 
-04-Components/
+Centralizar todas as informações da identidade da Bionex para utilização em:
 
-05-Templates/
-
-06-Images/
-
-07-Icons/
-
-08-Prompts/
-
-09-Marketing/
-
-10-Commercial/
-
-11-Presentations/
-
-12-Website/
+- Claude
+- ChatGPT
+- Figma
+- Sites
+- Landing Pages
+- Propostas Comerciais
+- Apresentações
+- Redes Sociais
