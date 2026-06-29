@@ -1,5 +1,9 @@
 # 07 · Photography
 
+## Foto oficial de referência (confirmada)
+
+O manual de Identidade Visual e a Apresentação Comercial 2026 reutilizam a **mesma fotografia** em mais de uma peça: profissional com capacete verde com a logo Bionex aplicada, colete verde, em ambiente de trabalho real. Isso confirma que esse é o estilo (e até a imagem específica) já oficial da marca — use como referência direta de tom fotográfico para novas fotos.
+
 ## A fórmula visual da Bionex deve transmitir
 
 | Conceito | Como aparece em foto |
@@ -9,9 +13,9 @@
 | Controle de Pragas | Profissional aplicando produto com equipamento certo (nunca aerossol doméstico genérico) |
 | Meio Ambiente | Natureza amazônica real — rio, mata, não paisagem genérica de banco de imagens |
 | Sanitização | Processo visivelmente técnico (pulverização, EPI, sinalização de área) |
-| Profissionais em campo | Pessoas reais da equipe, uniformizadas, em ação — nunca modelo de banco de imagens posando |
+| Profissionais em campo | Pessoas reais da equipe, uniformizadas (macacão/colete verde com logo — ver `../02-Identity/logo.md`), em ação |
 | Equipamentos modernos | Foco nítido no equipamento, sem aparentar improviso |
-| Natureza / Amazônia | Reforça o contexto regional real da empresa |
+| Natureza / Amazônia | Reforça o contexto regional real da empresa — confirmado pela abertura institucional oficial ("Nascida no coração da Amazônia") |
 | Segurança | EPI completo e visível sempre que a foto mostrar aplicação de produto |
 | Confiabilidade | Cenas de processo organizado (antes/durante/depois), nunca cauótico |
 
