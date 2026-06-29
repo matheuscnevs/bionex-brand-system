@@ -1,18 +1,30 @@
 # Tipografia — DM Sans
 
-**DM Sans é a única fonte da marca.** Não combinar com outra família tipográfica em nenhuma peça oficial.
+**DM Sans é a única fonte da marca.** Confirmado no manual de identidade visual oficial (pág. 7 — "paleta tipográfica"). Não combinar com outra família tipográfica em nenhuma peça oficial.
 
-- Em PPTX: declarar exatamente como `"DM Sans"`. Se a fonte não estiver instalada na máquina que abre o arquivo, o PowerPoint substitui automaticamente — isso é esperado e aceitável, mas sempre que possível incorpore a fonte no arquivo final.
-- Em Figma/Web: importar via Google Fonts (`DM Sans`), pesos Regular (400), Medium (500), Bold (700).
+## Pesos oficiais (5, confirmados no manual)
+
+| Peso | Valor numérico (Google Fonts) |
+|---|---|
+| ExtraLight | 200 |
+| Regular | 400 |
+| Medium | 500 |
+| SemiBold | 600 |
+| Bold | 700 |
+
+> ⚠️ Correção: a versão anterior deste documento citava apenas 3 pesos (Regular/Medium/Bold). O manual oficial confirma 5 pesos, incluindo ExtraLight e SemiBold.
+
+- Em PPTX: declarar exatamente como `"DM Sans"` — PowerPoint substitui se não estiver instalada.
+- Em Figma/Web: importar via Google Fonts (`DM Sans`).
 
 ## Hierarquia — Arte comercial (redes sociais, anúncios)
 
 | Nível | Tamanho | Peso | Cor | Uso |
 |---|---|---|---|---|
-| Hero word(s) | 40–60pt | Bold | Dark e/ou Verde stroke | 1-2 palavras curtas, o "gancho" visual |
+| Hero word(s) | 40–60pt | Bold | Dark e/ou Verde | 1-2 palavras curtas, o "gancho" visual |
 | Sub-headline | 16–20pt | Bold | Dark | Reforço da hero word, 1 linha |
 | Corpo explicativo | 12–14pt | Regular | Cinza | Texto de apoio, 1 linha |
-| Pré-header (categoria) | 10–12pt | Bold | Verde dark | Letter-spacing +3, uppercase recomendado |
+| Pré-header (categoria) | 10–12pt | Bold | Dark ou Verde | Letter-spacing +3, uppercase recomendado |
 | Caption legal | 9–11pt | Regular | Cinza | Letter-spacing +1.5 |
 
 ## Hierarquia — Comunicado oficial (A4)
