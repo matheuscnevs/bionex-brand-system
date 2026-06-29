@@ -8,14 +8,14 @@ Padrões para propostas, orçamentos, negociação, follow-up e apresentações 
 |---|---|
 | Razão social / marca | BIONEX Soluções Ambientais |
 | CNPJ | 43.552.121/0001-59 |
-| Matriz | Avenida Tarumã, nº 723, Sala 3, Centro – Manaus/AM. CEP: 69.025-040 |
+| Matriz (único endereço oficial) | Avenida Tarumã, nº 723, Sala 3, Centro – Manaus/AM. CEP: 69.025-040 |
 | Telefone/WhatsApp | (092) 99526-8752 |
 | E-mail | contato@bionexambiental.com.br |
 | Site | www.bionexambiental.com.br |
 | Instagram | @bionex.ambiental |
 | Licenças | DEVISA (Vigilância Sanitária – Maués) · FVS · IPAAM · IBAMA |
 
-> ⚠️ **Correção**: a versão anterior deste documento (baseada na skill de design) listava Maués como matriz e Manaus como filial. O material comercial oficial de 2026 lista **Manaus como matriz** e não menciona endereço em Maués. Use o endereço de Manaus acima até confirmação em contrário do Matheus.
+> O endereço de Maués citado em versões anteriores deste documento (vindo da skill de design) foi **confirmado pelo Matheus como não pertinente**. Use apenas o endereço de Manaus acima em qualquer material novo.
 
 ## Serviços oficiais (nomenclatura exata)
 

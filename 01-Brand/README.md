@@ -27,5 +27,5 @@
 - Destinação final de resíduos: **incineração**, descrita como "segura e sustentável".
 - Licenças/selos confirmados: DEVISA (Vigilância Sanitária – Maués) · FVS · IPAAM · IBAMA.
 - CNPJ: 43.552.121/0001-59.
-- **Endereço — correção importante**: a apresentação comercial 2026 lista a **Matriz em Manaus/AM** (Av. Tarumã, 723, Sala 3, Centro, CEP 69.025-040), e não menciona endereço em Maués. Isso corrige a versão anterior deste repositório, que (baseada na skill de design) listava Maués como matriz e Manaus como filial. Se a unidade de Maués ainda existir como filial, peça ao Matheus o endereço atualizado para complementar.
+- **Endereço**: Matriz única em Manaus/AM (Av. Tarumã, 723, Sala 3, Centro, CEP 69.025-040). O endereço de Maués citado em versões anteriores deste repositório (vindo da skill de design) foi **confirmado pelo Matheus como não pertinente** — não usar em nenhum material novo.
 - Mais de 15 empresas/instituições reais usadas como prova social na apresentação (ver `../13-Commercial/README.md`).

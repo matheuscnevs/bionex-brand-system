@@ -6,7 +6,7 @@
 
 ## 1. Identidade
 
-Bionex Soluções Ambientais — "Nascida no coração da Amazônia". Serviços: Controle de pragas, Sanitização, Gerenciamento de Resíduos Comuns, Gerenciamento de Resíduos Perigosos/Infectantes (destinação final por incineração), Consultoria Ambiental, Desobstrução de tubulações, Higienização de caixas-d'água. Matriz em Manaus/AM. CNPJ 43.552.121/0001-59. Licenças: DEVISA · FVS · IPAAM · IBAMA.
+Bionex Soluções Ambientais — "Nascida no coração da Amazônia". Serviços: Controle de pragas, Sanitização, Gerenciamento de Resíduos Comuns, Gerenciamento de Resíduos Perigosos/Infectantes (destinação final por incineração), Consultoria Ambiental, Desobstrução de tubulações, Higienização de caixas-d'água. Matriz única em Manaus/AM. CNPJ 43.552.121/0001-59. Licenças: DEVISA · FVS · IPAAM · IBAMA.
 
 **Missão oficial**: "Transformamos desafios ambientais em Soluções Sustentáveis."
 
@@ -68,7 +68,7 @@ Ver `../12-Marketing`. Frases curtas, sem jargão genérico, sem urgência falsa
 
 ## 13. Dados comerciais oficiais (ver `../13-Commercial`)
 
-CNPJ 43.552.121/0001-59 · Matriz Manaus/AM · WhatsApp (092) 99526-8752 · bionexambiental.com.br · @bionex.ambiental.
+CNPJ 43.552.121/0001-59 · Matriz única em Manaus/AM · WhatsApp (092) 99526-8752 · bionexambiental.com.br · @bionex.ambiental.
 
 ## 14. Acessibilidade
 
@@ -84,7 +84,7 @@ Contraste WCAG AA — valores calculados em `../03-Colors/accessibility-contrast
 6. [ ] Logo correta para o fundo (ver tabela do item 4), proporção ≈2,82:1 mantida?
 7. [ ] Ícones de contato alinhados no mesmo eixo?
 8. [ ] Nenhum número/prazo/regulamentação não confirmado foi inventado?
-9. [ ] Endereço usado é o de Manaus (matriz confirmada), não o de Maués desatualizado?
+9. [ ] Endereço usado é o de Manaus (único endereço oficial)?
 10. [ ] Logo não foi recriada — usou o SVG real de `../20-Assets/logos`?
 
 Se qualquer item falhar, refaça antes de entregar.

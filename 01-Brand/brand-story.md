@@ -9,8 +9,7 @@ Essa é a abertura institucional oficial já usada com clientes — pode ser cit
 ## O que ainda falta (não invento, pergunto)
 
 1. Como e quando a Bionex começou? Havia outra empresa/atividade antes?
-2. A apresentação 2026 lista a matriz em Manaus — a empresa já teve sede em Maués antes, ou essa informação (presente na skill de design) estava desatualizada/incorreta desde o início?
-3. Houve um momento ou caso específico que definiu a forma como a empresa opera hoje?
-4. Quem compõe a equipe hoje e qual o papel de cada um na história?
+2. Houve um momento ou caso específico que definiu a forma como a empresa opera hoje?
+3. Quem compõe a equipe hoje e qual o papel de cada um na história?
 
 Assim que essas respostas existirem, este arquivo passa a ter a história completa da marca, não só a abertura institucional.
